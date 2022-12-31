@@ -1,0 +1,14 @@
+{
+  "name": "esm-lib-ts",
+  "private": true,
+  "version": "0.0.0",
+  "type": "commonjs",
+  "types": "./dist/index.d.ts",
+  "main": "./dist/index.cjs",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^4.9.3"
+  }
+}
